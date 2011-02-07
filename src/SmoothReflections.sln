@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmoothReflections", "SmoothReflections\SmoothReflections.csproj", "{40DB56A0-D58A-4D0E-8156-AA4A1F55B1E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "documentation", "documentation", "{26BC6DBE-D7D0-460A-A611-C9B89A4C46AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40DB56A0-D58A-4D0E-8156-AA4A1F55B1E0}.Debug|x86.ActiveCfg = Debug|x86
+		{40DB56A0-D58A-4D0E-8156-AA4A1F55B1E0}.Debug|x86.Build.0 = Debug|x86
+		{40DB56A0-D58A-4D0E-8156-AA4A1F55B1E0}.Release|x86.ActiveCfg = Release|x86
+		{40DB56A0-D58A-4D0E-8156-AA4A1F55B1E0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
